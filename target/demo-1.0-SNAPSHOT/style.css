@@ -1,0 +1,28 @@
+
+a {
+  display: block;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-weight: 700;
+  color: white;
+}
+footer {
+  padding: 20px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color:rgba(255, 255, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.9);
+  border-radius: 5px;
+}
+h1 {
+  text-align: center;
+}
+.navbar {
+  background-color: #212529;
+}
+
+.form-control{
+  width: 25%;
+}
