@@ -8,3 +8,10 @@
 - Вернуть строки JSON с сервера
 - Создать из строки JSON объект
 - Получить список всех объектов хранящихся на сервере в файле (можно в виде таблицы, в виде карточек, в виде контейнеров и т.д.)
+
+  ![image](https://github.com/DiVik-htelter/OOP_lab3_4sem/assets/61377502/ae5d7ec9-ba37-4508-be60-0ae152b2e554)
+  ![image](https://github.com/DiVik-htelter/OOP_lab3_4sem/assets/61377502/9632bbd1-1553-4ccb-8ec6-db40913e185c)
+  ![image](https://github.com/DiVik-htelter/OOP_lab3_4sem/assets/61377502/33ba152c-a2d5-4d9f-b465-e7969ba38168)
+
+
+
